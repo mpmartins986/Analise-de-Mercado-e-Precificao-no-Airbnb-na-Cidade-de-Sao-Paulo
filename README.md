@@ -37,7 +37,7 @@ Projeto de análise exploratória e geoespacial de dados ponta a ponta sobre o m
 * **Linguagem & Bibliotecas:** Python (`pandas`, `geopandas`, `matplotlib`, `seaborn`, `mapclassify`).
 * **Limpeza e Pipeline de Dados:**
   * Limpeza de strings de texto com símbolos de moeda e conversão de preços para valores numéricos contínuos (`float64`).
-  * Filtragem de anomalias de calendário e outliers extremos utilizando o percentil 99 ($P_{99} \approx \text{R\$} 1.911,50$), retendo mais de 41.000 anúncios válidos.
+  * Filtragem de anomalias de calendário e outliers extremos utilizando o corte pelo percentil 99 (**P99 ≈ R$ 1.911,50**), retendo mais de 41.000 anúncios válidos.
   * Extração de atributos temporais (ano-mês) das avaliações para analisar o volume de reservas ao longo do tempo.
   * Junção espacial (*spatial join*) entre as métricas dos anúncios e os limites vetoriais do arquivo GeoJSON.
 
