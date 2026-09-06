@@ -12,13 +12,13 @@ Projeto de análise exploratória e geoespacial de dados ponta a ponta sobre o m
 ## 📊 Visão Geral do Mercado & Visualizações
 
 ### 1. Distribuição Espacial do Preço Mediano por Bairro
-![Mapa de Preço Mediano](mapa_precos_bairros.png)
+![Mapa de Preço Mediano](./mapa_precos_bairros.png)
 
 ### 2. Distribuição de Preço por Tipo de Acomodação
-![Boxplot por Tipo de Quarto](boxplot_room_type.png)
+![Boxplot por Tipo de Quarto](./boxplot_room_type.png)
 
 ### 3. Volume de Avaliações & Sazonalidade de Reservas
-![Sazonalidade das Avaliações](sazonalidade_reviews.png)
+![Sazonalidade das Avaliações](./sazonalidade_reviews.png)
 
 ---
 
